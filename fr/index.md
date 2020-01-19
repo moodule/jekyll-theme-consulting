@@ -4,15 +4,15 @@ lang-ref: home-page
 title: "Thème Jekyll Consulting"
 header:
     title: "Consulting"
-    subtitle: "Mise en Page de l'Accueil"
+    subtitle: "Page d'Accueil"
     style:
         class: inverted
         image: "/assets/images/content/pillars-of-creation.webp"
 banner:
     title: "Avec une Bannière"
     subtitle: "Sur Fond Extraterrestre"
-    desription: >-
-        A responsive site template designed by <a href="david.mougeolle@moodule.net">DM</a> for <a href="https://github.com/moodule">MOODULE</a>.<br />It’s responsive, built on HTML5/CSS3, and entirely free<br />under the <a href="https://github.com/moodule/jekyll-theme-consulting/blob/master/LICENSE">Creative Commons license</a>.
+    description: >-
+        Un patron de site "responsive" par <a href="david.mougeolle@moodule.net">DM</a> pour <a href="https://github.com/moodule">MOODULE</a>.
     style:
         class: inverted
         image: "/assets/images/content/pillars-of-creation.webp"
