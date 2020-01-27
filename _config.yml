@@ -1,7 +1,7 @@
 # Site settings
 title: Jekyll Theme Consulting
 description: >- # this means to ignore newlines until "baseurl:"
-  A Jekyll site template designed by <a href="david.mougeolle@moodule.net">DM</a> for <a href="https://github.com/moodule">MOODULE</a>.<br />
+  A Jekyll site template designed by <a href="moodule@protonmail.com">DM</a> for <a href="https://github.com/moodule">MOODULE</a>.<br />
   It’s responsive, built on HTML5/CSS3, and entirely free<br /> under the <a href="https://github.com/moodule/jekyll-theme-consulting/blob/master/LICENSE">Creative Commons license</a>.
 
 # Contact information
@@ -103,9 +103,9 @@ plugins:
 # Publication settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://moodule.github.io/jekyll-theme-consulting" # the base hostname & protocol for your site, e.g. http://example.com
-author: David Mougeolle
+author: Moodule
 copyright:
   holder: Untitled
-  license: CC0
+  license: CC0 BY-NC-SA
 
 # Exclude from processing
