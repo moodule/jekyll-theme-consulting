@@ -3,7 +3,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-consulting"
-  spec.version       = "0.11.3"
+  spec.version       = "0.11.4"
   spec.authors       = ["Moodule"]
   spec.email         = ["moodule@protonmail.com"]
 
