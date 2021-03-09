@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://moodule.github.io/jekyll-theme-consulting/sitemap.xml
+Sitemap: https://apehex.github.io/jekyll-theme-consulting/sitemap.xml
