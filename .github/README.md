@@ -2,7 +2,7 @@
 
 > A sober, hassle-free, jekyll template for businesses.
 
-You can preview the theme [here](https://moodule.github.io/jekyll-theme-consulting)
+You can preview the theme [here](https://apehex.github.io/jekyll-theme-consulting)
 
 ![Consulting Theme](../assets/images/screenshot.webp "Consulting Theme")
 
@@ -188,7 +188,7 @@ If necessary, configure your server to serve this directory.
 
 # Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/moodule/jekyll-theme-consulting. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant][contributor-covenant] code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/apehex/jekyll-theme-consulting. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant][contributor-covenant] code of conduct.
 
 # Development
 
